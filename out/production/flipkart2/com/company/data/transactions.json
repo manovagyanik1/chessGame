@@ -1,0 +1,201 @@
+[ {
+  "store" : {
+    "id" : 1,
+    "name" : "store1",
+    "address" : "address1",
+    "city" : {
+      "cityName" : "Mau",
+      "state" : "UttarPradesh"
+    },
+    "itemCount" : [ {
+      "item" : {
+        "id" : 1,
+        "name" : "item1",
+        "price" : 200.0,
+        "category" : "BEVERAGE"
+      },
+      "count" : 2
+    }, {
+      "item" : {
+        "id" : 2,
+        "name" : "item2",
+        "price" : 200.0,
+        "category" : "BEVERAGE"
+      },
+      "count" : 2
+    }, {
+      "item" : {
+        "id" : 3,
+        "name" : "item3",
+        "price" : 200.0,
+        "category" : "FOOD"
+      },
+      "count" : 2
+    }, {
+      "item" : {
+        "id" : 4,
+        "name" : "item4",
+        "price" : 200.0,
+        "category" : "FOOD"
+      },
+      "count" : 2
+    } ]
+  },
+  "item" : {
+    "id" : 1,
+    "name" : "item1",
+    "price" : 200.0,
+    "category" : "BEVERAGE"
+  },
+  "date" : 1498032518660
+}, {
+  "store" : {
+    "id" : 1,
+    "name" : "store1",
+    "address" : "address1",
+    "city" : {
+      "cityName" : "Mau",
+      "state" : "UttarPradesh"
+    },
+    "itemCount" : [ {
+      "item" : {
+        "id" : 1,
+        "name" : "item1",
+        "price" : 200.0,
+        "category" : "BEVERAGE"
+      },
+      "count" : 2
+    }, {
+      "item" : {
+        "id" : 2,
+        "name" : "item2",
+        "price" : 200.0,
+        "category" : "BEVERAGE"
+      },
+      "count" : 2
+    }, {
+      "item" : {
+        "id" : 3,
+        "name" : "item3",
+        "price" : 200.0,
+        "category" : "FOOD"
+      },
+      "count" : 2
+    }, {
+      "item" : {
+        "id" : 4,
+        "name" : "item4",
+        "price" : 200.0,
+        "category" : "FOOD"
+      },
+      "count" : 2
+    } ]
+  },
+  "item" : {
+    "id" : 2,
+    "name" : "item2",
+    "price" : 200.0,
+    "category" : "BEVERAGE"
+  },
+  "date" : 1498032518660
+}, {
+  "store" : {
+    "id" : 1,
+    "name" : "store1",
+    "address" : "address1",
+    "city" : {
+      "cityName" : "Mau",
+      "state" : "UttarPradesh"
+    },
+    "itemCount" : [ {
+      "item" : {
+        "id" : 1,
+        "name" : "item1",
+        "price" : 200.0,
+        "category" : "BEVERAGE"
+      },
+      "count" : 2
+    }, {
+      "item" : {
+        "id" : 2,
+        "name" : "item2",
+        "price" : 200.0,
+        "category" : "BEVERAGE"
+      },
+      "count" : 2
+    }, {
+      "item" : {
+        "id" : 3,
+        "name" : "item3",
+        "price" : 200.0,
+        "category" : "FOOD"
+      },
+      "count" : 2
+    }, {
+      "item" : {
+        "id" : 4,
+        "name" : "item4",
+        "price" : 200.0,
+        "category" : "FOOD"
+      },
+      "count" : 2
+    } ]
+  },
+  "item" : {
+    "id" : 3,
+    "name" : "item3",
+    "price" : 200.0,
+    "category" : "FOOD"
+  },
+  "date" : 1498032518660
+}, {
+  "store" : {
+    "id" : 1,
+    "name" : "store1",
+    "address" : "address1",
+    "city" : {
+      "cityName" : "Mau",
+      "state" : "UttarPradesh"
+    },
+    "itemCount" : [ {
+      "item" : {
+        "id" : 1,
+        "name" : "item1",
+        "price" : 200.0,
+        "category" : "BEVERAGE"
+      },
+      "count" : 2
+    }, {
+      "item" : {
+        "id" : 2,
+        "name" : "item2",
+        "price" : 200.0,
+        "category" : "BEVERAGE"
+      },
+      "count" : 2
+    }, {
+      "item" : {
+        "id" : 3,
+        "name" : "item3",
+        "price" : 200.0,
+        "category" : "FOOD"
+      },
+      "count" : 2
+    }, {
+      "item" : {
+        "id" : 4,
+        "name" : "item4",
+        "price" : 200.0,
+        "category" : "FOOD"
+      },
+      "count" : 2
+    } ]
+  },
+  "item" : {
+    "id" : 1,
+    "name" : "item1",
+    "price" : 200.0,
+    "category" : "BEVERAGE"
+  },
+  "date" : 1498032518660
+} ]
